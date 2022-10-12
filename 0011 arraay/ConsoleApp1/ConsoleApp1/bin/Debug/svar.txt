@@ -1,0 +1,6 @@
+1 Svar mulighed 2
+2 Svar mulighed 3
+3 Svar mulighed 4
+4 Svar mulighed 1
+5 Svar mulighed 4
+6 Svar mulighed 3
